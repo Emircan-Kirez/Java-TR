@@ -61,6 +61,7 @@ public class Company{
         intro += "---------------- Şirket Bilgileri ----------------\n" + "• Şirket Adı: " + companyName;
         intro += "\n• " + dogs.size()  + " adet yeni sahibini bekleyen köpek bulunmaktadır.";
         intro += "\n• " + cats.size()  + " adet yeni sahibini bekleyen kedi bulunmaktadır.";
+        intro += "\n• " + birds.size() + " adet yeni sahibini bekleyen kuş bulunmaktadır.";
         intro += "\n• Sistemde" + persons.size()  + " adet kişi kayıtlıdır.";
         return intro;
     }
