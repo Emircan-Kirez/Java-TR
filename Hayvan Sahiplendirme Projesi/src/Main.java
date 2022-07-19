@@ -3,7 +3,7 @@
 /*
 ----------------------- BİLGİLENDİRME --------------------------
 • Projeye geçmeden önce README.md dosyasını okumanız tavsiye edilmektedir.
-• Projeyle alakalı herhangi bir soru ve öneri için "emircan200123@hotmail.com" mail adresi üzerinden, konu başlığına "Github | Java-TR / Hayvan Sahiplendirme Sistem Projesi"
+• Projeyle alakalı herhangi bir soru ve öneri için "emircan200123@hotmail.com" mail adresi üzerinden, konu başlığına "Github | Java-TR / Hayvan Sahiplendirme Projesi"
 yazarak benimle iletişime geçebilirsiniz.
 */
 
