@@ -314,13 +314,13 @@ public class Company{
                     break;
                 case 3:
                     System.out.println("1 kuş yemi " + source.getBirdFood().getPrice() + " gramdır ve " + source.getBirdFood().getPrice() + " TL'dir" +
-                            " Şu anki bakiyeniz: " + totalDonation + " TL. Kaç adet kedi maması almak istiyorsunuz?");
+                            " Şu anki bakiyeniz: " + totalDonation + " TL. Kaç adet kuş yemi almak istiyorsunuz?");
                     number = Main.input.nextInt();
                     Main.input.nextLine(); //int okumadaki enter'ı okuyor
                     if (totalDonation >= number * source.getBirdFood().getPrice()) {
                         source.addBirdFood(number);
                         totalDonation -= number * source.getBirdFood().getPrice();
-                        System.out.println(number + " adet kuş yemi alındı ve şu an depoda " + source.getBirdFoodAmount() + " gram kedi maması bulunmaktadır. " +
+                        System.out.println(number + " adet kuş yemi alındı ve şu an depoda " + source.getBirdFoodAmount() + " gram kuş yemi bulunmaktadır. " +
                                 "Güncel bakiyeniz: " + totalDonation + " TL.");
                     } else {
                         System.out.println("Maalesef bakiyeniz yetersiz olduğu için satın alım GERÇEKLEŞMEDİ!!");
