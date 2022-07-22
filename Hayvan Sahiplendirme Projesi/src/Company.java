@@ -531,7 +531,7 @@ public class Company{
         System.out.println(ID + " ID'li kuş başarılı bir şekilde barınaktan silindi.");
     }
 
-    /* Bağış Silme Methodu */
+    /* Bağış Silme Methodları */
     private Donation findDonation(int amount, String ID){
         for(Donation donation : donations){
             if(donation.getAmount() == amount && donation.getDonor().getID().compareTo(ID) == 0){
