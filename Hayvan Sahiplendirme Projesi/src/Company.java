@@ -586,7 +586,7 @@ public class Company{
         System.out.println(person.getID() + " T.C. kimlik numarasına sahip kişi sistemden başarılı bir şekilde silindi.");
     }
 
-    /* Kullanıcı Adı ve Şifre Değiştirme Methodu */
+    /* Kullanıcı Adı ve Şifre Methodları */
     public void showUsernameAndPassword(){
         System.out.println("Kullanıcı adı: " + username + " | Şifre: " + password);
     }
