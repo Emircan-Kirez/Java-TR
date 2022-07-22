@@ -1,5 +1,6 @@
 # Son Güncelleme: 19/07/2022
 • Üç aylık java bilgimle yapmış olduğum ilk büyük çaplı java projem <br />
+• Bu sistemde bir kişinin sadece 1 adet hayvanı olabilir. <br />
 • Bu projede bir sistemde; <br />
 &emsp;&emsp; 3 çeşit hayvanın (köpek, kedi, kuş) bilgilerinin tutulması, <br />
 &emsp;&emsp; hayvanların yiyecek kaynaklarının bilgilerinin tutulması, <br />
