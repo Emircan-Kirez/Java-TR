@@ -8,6 +8,7 @@
 • Company.java dosyası, projedeki java dosyaları arasında temel bağlantıyı sağlayan dosyadır. <br />
 • src klasörünü ve company.bin dosyasını kullanarak projeyi kullanabilirsiniz. <br />
 • company.bin dosyası sistemdeki bütün bilgilerin tutulduğu dosyadır. <br />
+• Sistemde sadece bir adet kullanıcı girişi mevcuttur. O da admin girişidir. <br />
 • Projeye giriş yapabilmek için; <br />
 &emsp;&emsp; kullanıcı adı: admin <br />
 &emsp;&emsp; şifre: 12345 <br />
